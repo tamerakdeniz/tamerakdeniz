@@ -21,8 +21,6 @@
 <table><tr><td valign="top" width="100%">
 
 - Currently working on WXCO Design<br>
- 
-- Figma and Photoshop enhancements
   
 - Currently learning Python, FastAPI and many other! <br>
 
