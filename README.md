@@ -1,4 +1,4 @@
-## Hi I'm Tamer Akdeniz! 👋 Front-End Developer(Designer)
+## Hi I'm Tamer Akdeniz! 👋 Software Developer
 
 ## <a href="https://wxcodesign.com" target="_blank">![WXCO Design](https://wxcodesign.com/img/favicon/wxco.ico)</a> | Founder of <a href="https://wxcodesign.com" target="_blank">WXCO Design</a>
   
@@ -24,7 +24,7 @@
  
 - Figma and Photoshop enhancements
   
-- Currently learning JavaScript, Python and many other! <br>
+- Currently learning Python, FastAPI and many other! <br>
 
 - New generation to make a difference - original | Personal - Corporate website, illustration, logo and graphic designer<br>
 </td></tr></table>
