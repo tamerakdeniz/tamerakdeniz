@@ -25,9 +25,3 @@
 </td></tr></table>
 
 <br/>
-
-<br>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=tamerakdeniz&&style=flat-square" align="center" />
-</div>  
-
