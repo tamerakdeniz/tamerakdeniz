@@ -34,9 +34,9 @@ I'm a Software Developer currently exploring the exciting world of AI and machin
 Currently transitioning from Software Development to AI Engineering - documenting my journey from writing web applications to building AI-powered solutions.
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamerakdeniz)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamerakdeniz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamerakdnz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=safari&logoColor=white)](https://wxcodesign.com)
+[![WXCO Design](https://img.shields.io/badge/WXCO_Design-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000)](https://wxcodesign.com)
 
 ### ⚡ Fun Fact
 Taking the leap from crafting web experiences to exploring the world of artificial intelligence - because every great AI engineer started somewhere! 🚀
