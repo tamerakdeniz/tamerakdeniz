@@ -1,27 +1,48 @@
-## Hi I'm Tamer Akdeniz! 👋 Software Developer
-
-## <a href="https://wxcodesign.com" target="_blank">![WXCO Design](https://wxcodesign.com/img/favicon/wxco.ico)</a> | Founder of <a href="https://wxcodesign.com" target="_blank">WXCO Design</a>
+<div align="center">
+  <h1>
+    👋 Hi, I'm Tamer Akdeniz
+    <a href="https://wxcodesign.com">
+      <img src="https://wxcodesign.com/img/favicon/wxco.ico" alt="WXCO Design" width="30" style="vertical-align: middle; margin-left: 10px"/>
+    </a>
+  </h1>
   
+  <h2>Software Developer | Aspiring AI Engineer</h2>
+</div>
 
-<br/> 
+### 🚀 About Me
+I'm a Software Developer currently exploring the exciting world of AI and machine learning. With experience in frontend development and design, I'm now focusing on building my expertise in AI technologies and Python development.
 
-<a href="https://linkedin.com/in/tamerakdeniz" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/tamerakdnz" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+### 🔭 Current Focus
+- Learning AI development with **Python**
+- Building backend services using **FastAPI**
+- Exploring **Large Language Models**
+- Transitioning from web development to AI engineering
 
+### 💡 Tech Stack
+- **Current:** Python, FastAPI, RESTful APIs
+- **Learning:** LangChain, HuggingFace, ML Basics
+- **Background:** JavaScript, HTML/CSS, UI/UX
 
-<br/>
+### 🌱 Learning Path
+- Python for AI/ML
+- Large Language Models
+- Machine Learning Fundamentals
+- API Development with FastAPI
+- AI Application Architecture
 
-<table><tr><td valign="top" width="100%">
+### 🎯 Career Transition
+Currently transitioning from Software Development to AI Engineering - documenting my journey from writing web applications to building AI-powered solutions.
 
-- Currently working on WXCO Design<br>
-  
-- Currently learning Python, FastAPI and many other! <br>
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamerakdeniz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamerakdnz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=safari&logoColor=white)](https://wxcodesign.com)
 
-- New generation to make a difference - original | Personal - Corporate website, illustration, logo and graphic designer<br>
-</td></tr></table>
+### ⚡ Fun Fact
+Taking the leap from crafting web experiences to exploring the world of artificial intelligence - because every great AI engineer started somewhere! 🚀
 
-<br/>
+---
+
+<div align="center">
+  <i>Open to connecting with other developers on similar learning journeys! 📚</i>
+</div>
