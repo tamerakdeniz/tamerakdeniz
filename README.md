@@ -35,8 +35,9 @@ Currently transitioning from Software Development to AI Engineering - documentin
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamerakdeniz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamerakdnz)
 [![WXCO Design](https://img.shields.io/badge/WXCO_Design-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000)](https://wxcodesign.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamerakdnz)
+
 
 ### ⚡ Fun Fact
 Taking the leap from crafting web experiences to exploring the world of artificial intelligence - because every great AI engineer started somewhere! 🚀
