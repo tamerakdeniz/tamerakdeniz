@@ -17,10 +17,11 @@ I'm a Software Developer currently exploring the exciting world of AI and machin
 - Building backend services using **FastAPI**
 - Exploring **Large Language Models**
 - Transitioning from web development to AI engineering
+- Kotlin, Android Developing
 
 ### 💡 Tech Stack
 - **Current:** Python, FastAPI, RESTful APIs
-- **Learning:** LangChain, HuggingFace, ML Basics
+- **Learning:** LangChain, HuggingFace, ML Basics, Kotlin
 - **Background:** JavaScript, HTML/CSS, UI/UX
 
 ### 🌱 Learning Path
