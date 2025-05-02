@@ -17,7 +17,7 @@ I'm a Software Developer currently exploring the exciting world of AI and machin
 - Building backend services using **FastAPI**
 - Exploring **Large Language Models**
 - Transitioning from web development to AI engineering
-- Kotlin, Android Developing
+- Learning Kotlin for Android Developing
 
 ### 💡 Tech Stack
 - **Current:** Python, FastAPI, RESTful APIs
