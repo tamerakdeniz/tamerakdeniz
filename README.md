@@ -5,6 +5,11 @@
       <img src="https://tamerakdeniz.com/img/favicon.ico" alt="Tamer Akdeniz" width="24" style="vertical-align: middle; margin-left: 6px"/>
     </a>
   </h1>
+
+  <p>
+    <a href="https://tamerakdeniz.com">tamerakdeniz.com</a>
+  </p>
+
   <sub>Software Developer · Aspiring AI Engineer</sub>
 </div>
 
@@ -29,14 +34,9 @@
 ---
 
 ## 🧩 Projects
-- **Pathyvo** → AI-driven career roadmap & mentorship platform  
-  🔗 https://github.com/tamerakdeniz/AI-Based-Career-Counselor
-
-- **FiyatIQ** → Intelligent price analysis system  
-  🔗 https://github.com/tamerakdeniz/fiyatiq
-
-- **Autonomous Tutor** → AI-powered learning assistant  
-  🔗 https://github.com/tamerakdeniz/autonomous-tutor
+- [**Pathyvo** → AI-driven career roadmap & mentorship platform](https://github.com/tamerakdeniz/AI-Based-Career-Counselor)
+- [**FiyatIQ** → Intelligent price analysis system](https://github.com/tamerakdeniz/fiyatiq)
+- [**Autonomous Tutor** → AI-powered learning assistant](https://github.com/tamerakdeniz/autonomous-tutor)
 
 ---
 
