@@ -35,8 +35,8 @@ I'm a Software Developer currently exploring the exciting world of AI and machin
 Currently transitioning from Software Development to AI Engineering - documenting my journey from writing web applications to building AI-powered solutions.
 
 ### 📫 Let's Connect
+[![Tamer Akdeniz](https://img.shields.io/badge/Portfolio-Black?style=for-the-badge)](https://tamerakdeniz.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamerakdeniz)
-[![WXCO Design](https://img.shields.io/badge/WXCO_Design-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000)](https://wxcodesign.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tamerakdnz)
 
 
