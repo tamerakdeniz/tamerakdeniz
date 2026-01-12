@@ -35,7 +35,7 @@
 
 ## 🧩 Projects
 - [**Pathyvo** → AI-driven career roadmap & mentorship platform](https://github.com/tamerakdeniz/AI-Based-Career-Counselor)
-- [**FiyatIQ** → Intelligent price analysis system](https://github.com/tamerakdeniz/fiyatiq)
+- [**FiyatIQ** → Intelligent price analysis system](https://github.com/tamerakdeniz/fiyatiq-app)
 - [**Autonomous Tutor** → AI-powered learning assistant](https://github.com/tamerakdeniz/autonomous-tutor)
 
 ---
