@@ -35,6 +35,7 @@
 
 ## 🧩 Projects
 - [**Pathyvo** → AI-driven career roadmap & mentorship platform](https://github.com/tamerakdeniz/AI-Based-Career-Counselor)
+- [**Workout Planner** → Workout Program Manager](https://github.com/tamerakdeniz/workout-planner)
 - [**FiyatIQ** → Intelligent price analysis system](https://github.com/tamerakdeniz/fiyatiq-app)
 - [**Autonomous Tutor** → AI-powered learning assistant](https://github.com/tamerakdeniz/autonomous-tutor)
 
