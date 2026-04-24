@@ -10,7 +10,7 @@
     <a href="https://tamerakdeniz.com">tamerakdeniz.com</a>
   </p>
 
-  <sub>Software Developer · Aspiring AI Engineer</sub>
+  <sub>Software Developer · AI Native Developer</sub>
 </div>
 
 ---
@@ -25,10 +25,10 @@
 | Layer | Technologies |
 |------|-------------|
 | **AI / LLM** | Gemini API, Prompt Engineering, LLM-based systems |
-| **Backend** | Python, FastAPI, Node.js |
-| **Data** | Firebase, SQLite |
+| **Backend** | Python, Java, FastAPI, Spring Boot, Node.js |
 | **Frontend** | React, TypeScript, Tailwind CSS |
-| **DevOps / Cloud** | Docker, Docker Compose, **Google Cloud** |
+| **Data** | PostgreSQL, Firebase, SQLite |
+| **DevOps / Cloud** | Docker, Docker Compose, Google Cloud |
 | **Tooling** | Git, GitHub |
 
 ---
